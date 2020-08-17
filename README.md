@@ -1,2 +1,4 @@
 # Insurance-Algo
-Binary Classification of Messages to Determine 
+Binary Classification of Messages
+
+Determining the interest in/need for insurance via messages
